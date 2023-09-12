@@ -1,0 +1,14 @@
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/bin/Debug/net7.0/Atividade
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/bin/Debug/net7.0/Atividade.deps.json
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/bin/Debug/net7.0/Atividade.runtimeconfig.json
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/bin/Debug/net7.0/Atividade.dll
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/bin/Debug/net7.0/Atividade.pdb
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/obj/Debug/net7.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/obj/Debug/net7.0/Atividade.AssemblyInfoInputs.cache
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/obj/Debug/net7.0/Atividade.AssemblyInfo.cs
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/obj/Debug/net7.0/Atividade.csproj.CoreCompileInputs.cache
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/obj/Debug/net7.0/Atividade.dll
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/obj/Debug/net7.0/refint/Atividade.dll
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/obj/Debug/net7.0/Atividade.pdb
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/obj/Debug/net7.0/Atividade.genruntimeconfig.cache
+/Users/mailaguimaraes/Library/Mobile Documents/com~apple~CloudDocs/CURSOS/PLATAFORMA_EAD_CURSO/Arquivos/Atividade/obj/Debug/net7.0/ref/Atividade.dll
